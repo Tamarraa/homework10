@@ -1,0 +1,283 @@
+/* header */
+
+
+header {
+    width: 1440px;
+    height: 96px;
+    justify-content: space-between;
+    padding: 17px, 32px, 17px, 32px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.headnav {
+    width: 328px;
+    height: 20px;
+    gap: 24px;
+    display: flex;
+}
+
+.headul {
+    display: flex;
+    column-gap: 24px;
+}
+
+.li1 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+
+}
+
+.but1 {
+    display: flex;
+    padding: 12px 24px;
+    background-color: #000000;
+    border: none;
+    border-radius: 32px;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-right: 32px;
+}
+
+.img1 {
+    display: flex;
+    padding: 6px;
+    margin-left: 32px;
+
+}
+
+/* first section */
+.text1 {
+    font-family: Inter;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: -1px;
+    text-align: left;
+
+}
+
+.div3 {
+    width: 490px;
+    height: 120px
+}
+
+.text2 {
+    font-size: 18px;
+    font-family: inter;
+    margin-top: 24px;
+
+
+}
+
+.div4 {
+    width: Fill (490px);
+    height: Hug (200px);
+    gap: 24px;
+
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px 11%;
+}
+
+
+
+
+.div5 {
+    width: calc(503.5 / 1440 * 100%);
+    height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.div6 {
+    width: Fill (490px);
+    height: Hug (288px);
+    gap: 40px;
+    justify-content: space-between;
+
+}
+
+.div7 {
+    padding: 12px 24px;
+    margin-top: 52px;
+
+}
+
+.div8 {
+    width: Fill (490px);
+    height: Hug (200px);
+    gap: 24px;
+    display: flex;
+
+
+}
+
+.img2 {
+    border-radius: 12px;
+}
+
+/* second section */
+.section2 {
+    width: Fill (1, 440px);
+    height: Hug (592px);
+    padding: 96px, 150px, 96px, 150px;
+    padding: 96px 150px;
+    background-color: #000000;
+
+
+
+}
+
+.div9 {
+    width: Fill (1, 140px);
+    height: Hug (400px);
+    gap: 133px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+
+
+.img3 {
+    width: Fill (503.5px);
+    height: Fixed (400px);
+    padding: 10px;
+    border-radius: 12px;
+    gap: 10px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.title2 {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 32px;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+.text3 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* section 3th */
+.main3 {
+    margin: 64px 10.4%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.items3 {
+    width: calc(360 / 1440 * 100%);
+    padding-right: 10px;
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #000000;
+}
+
+
+
+.circltitl {
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
+
+.items_title {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.itext {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+/* footer */
+footer {
+    background-color: #000000;
+}
+
+.fodiv {
+    padding: 96px 10.4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.fonav {
+    display: flex;
+    column-gap: 80px;
+
+
+}
+
+.navtitle {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.footer_ul {
+    display: flex;
+    flex-direction: column;
+    column-gap: 8px;
+}
+
+.footer_list {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.subscribe_title {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.subscribe {
+    width: 16%;
+}
+
+.subscribe_text {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #FFFFFF;
+    opacity: 0.4;
+}
